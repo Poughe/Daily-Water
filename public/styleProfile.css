@@ -1,0 +1,11 @@
+body{
+    padding-top:80px;
+    word-wrap:break-word;
+    background-color: gray;
+  }
+  h1, label, p, span, .price-output{
+      color:black
+  }
+  .price-output{
+      font-size: 2rem;
+  }

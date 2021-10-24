@@ -1,0 +1,32 @@
+html{
+    background-color: black;
+  }
+  body{
+    padding-top:80px;
+    word-wrap:break-word;
+    background-color: black;
+  }
+  img{
+    height: 200px;
+  }
+  h1{
+    color: gray;
+  }
+  label{
+    color: white;
+  }
+  p{
+    color: white;
+  }
+  .jumbotron{
+    background-color: rgb(70,200,215);
+    border: 3px solid black;
+  }
+  span{
+    color: white;
+  }
+  .price-output{
+    color: white;
+    font-size: 2rem;
+    margin-bottom: 15px;
+  }
